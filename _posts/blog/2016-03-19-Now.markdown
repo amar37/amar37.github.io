@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Эхлэл"
+title:  "Одоо"
 date:   2016-03-19 15:48:37 +0900
 category: blog
 ---
